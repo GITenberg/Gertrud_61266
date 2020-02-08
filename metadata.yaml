@@ -1,0 +1,34 @@
+_repo: Gertrud_61266
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hesse, Hermann
+    aliases:
+    - Sinclair, Emil
+    - Lauscher, Hermann
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '941'
+    url: http://www.gutenberg.org/2009/agents/941
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Hermann_Hesse
+    - http://en.wikipedia.org/wiki/Hermann_Hesse
+description: ''
+gutenberg_issued: '2020-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61266'
+  lccn: '10028504'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'People with disabilities -- Fiction'
+- !lcsh 'Composers -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Opera -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: Gertrud
+url: http://www.gutenberg.org/ebooks/61266
